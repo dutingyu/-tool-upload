@@ -6,8 +6,8 @@ import cn.ucloud.ufile.exception.UfileClientException;
 import cn.ucloud.ufile.exception.UfileServerException;
 import cn.ucloud.ufile.util.MimeTypeUtil;
 import cn.ucloud.ufile.util.StorageType;
-import com.qdum.toolupload.config.StorageException;
-import com.qdum.toolupload.entrance.UploadUtil;
+import com.tool.upload.config.StorageException;
+import com.tool.upload.entrance.UploadUtil;
 import org.springframework.beans.factory.annotation.Value;
 
 import java.io.File;
