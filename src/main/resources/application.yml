@@ -1,0 +1,20 @@
+storage:
+  way:
+  oss:
+    domain:
+    bucketName:
+    endpoint:
+    accessKeyId:
+    accessKeySecret:
+  obs:
+    domain:
+    bucketName:
+    endpoint:
+    accessKeyId:
+    accessKeySecret:
+  ufile:
+    domain:
+    bucketName:
+    customHost:
+    publicKey:
+    privateKey:

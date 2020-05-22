@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/test/upload/test?path=G:\store-02.txt
+Content-Type: application/json
+
+{}
+
+###
